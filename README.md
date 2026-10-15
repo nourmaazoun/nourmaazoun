@@ -3,7 +3,7 @@
 🇹🇳 Étudiante en dernière année d'**ingénierie en cybersécurité** à l'**IIT Sfax** — Administration des Réseaux et Sécurité Informatique.
 Je conçois des laboratoires de sécurité où les attaques sont détectées, bloquées automatiquement puis analysées, de la conception du réseau jusqu'à la réponse aux incidents.
 
-À la recherche d'un stage de fin d'études (PFE) en sécurité des systèmes d'information, en France.**
+À la recherche d'un stage de fin d'études (PFE) en sécurité des systèmes d'information, en France.
 
  titulaire d'un titre de séjour autorisant à travailler.
 
