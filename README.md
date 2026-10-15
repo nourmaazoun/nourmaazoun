@@ -3,9 +3,11 @@
 🇹🇳 Étudiante en dernière année d'**ingénierie en cybersécurité** à l'**IIT Sfax** — Administration des Réseaux et Sécurité Informatique.
 Je conçois des laboratoires de sécurité où les attaques sont détectées, bloquées automatiquement puis analysées, de la conception du réseau jusqu'à la réponse aux incidents.
 
-🎯 **À la recherche d'un stage de fin d'études (PFE)** en sécurité des systèmes d'information en france (Je disopse d'un carte sejours qui me permet de travailler).
+À la recherche d'un stage de fin d'études (PFE) en sécurité des systèmes d'information, en France.**
 
-## 🚀 Projet phare
+ titulaire d'un titre de séjour autorisant à travailler.
+
+## 🚀 Projet de fin d'année
 
 ### 🔐 [Plateforme SOC/SOAR](https://github.com/nourmaazoun/soc-soar-platform)
 Plateforme open source de détection d'intrusions et de réponse automatisée aux incidents.
