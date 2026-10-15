@@ -24,25 +24,15 @@ Plateforme open source de détection d'intrusions et de réponse automatisée au
 
 ### 💻 Langages et développement
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cs,js,php,html,css,react,angular,dotnet,laravel&perline=12" alt="Langages et frameworks" />
-</p>
+`Python` `Java` `C` `C#` `JavaScript` `PHP` `SQL` `HTML5` `CSS3` `React.js` `Angular` `.NET Core` `Laravel`
 
 ### 🗄️ Bases de données
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=12" alt="Bases de données" />
-</p>
-
-`Azure Cosmos DB`
+`MongoDB` `MySQL` `PostgreSQL` `Azure Cosmos DB`
 
 ### 🐧 Systèmes, DevOps et cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,azure&perline=12" alt="Systèmes et DevOps" />
-</p>
-
-`Windows Server` `Docker Compose` `Azure DevOps` `Active Directory` `Azure AD` `Graph API` `Azure Document Intelligence`
+`Linux` `Windows` `Windows Server` `Docker` `Docker Compose` `Git` `Azure DevOps` `Active Directory` `Azure AD` `Graph API` `Azure Document Intelligence`
 
 ### 📊 Microsoft 365 et Power Platform
 `SharePoint` `Power Apps` `Power Automate` `Power BI` `Microsoft Teams`
